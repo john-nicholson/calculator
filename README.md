@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/johnfnicholson/PartsUnlimited/_apis/build/status/john-nicholson.calculator?branchName=master)](https://dev.azure.com/johnfnicholson/PartsUnlimited/_build/latest?definitionId=4&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
